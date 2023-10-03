@@ -1,0 +1,39 @@
+﻿  ExtraWork.cpp
+E:\Career Work\Education\UCSC\Quarters\First Year\Fall\GPM 230\Project_1\Project_1\ExtraWork.cpp(56,41): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Career Work\Education\UCSC\Quarters\First Year\Fall\GPM 230\Project_1\Project_1\ExtraWork.cpp(57,41): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Career Work\Education\UCSC\Quarters\First Year\Fall\GPM 230\Project_1\Project_1\ExtraWork.cpp(64,41): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Career Work\Education\UCSC\Quarters\First Year\Fall\GPM 230\Project_1\Project_1\ExtraWork.cpp(65,41): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Career Work\Education\UCSC\Quarters\First Year\Fall\GPM 230\Project_1\Project_1\ExtraWork.cpp(114,20): warning C4018: '<': signed/unsigned mismatch
+  Project_1.vcxproj -> E:\Career Work\Education\UCSC\Quarters\First Year\Fall\GPM 230\Project_1\Debug\Project_1.exe
